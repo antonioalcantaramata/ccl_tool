@@ -60,6 +60,4 @@ If you use this code, you can cite in you work as:
   version = {1.0.0},
   year = {2022}
 }
-
-
-
+```
