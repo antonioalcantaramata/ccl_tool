@@ -44,3 +44,12 @@ ccl_tool.const_embed(conceptual_model, cons, 'y_name', lb, ub)
 ```
 
 conceptual_model represents our initialized MIO problem in Pyomo. Generated constraints (cons) are embedded in the model (conceptual_model). A name for the learned variables is needed ('y_name'), and an additional lower and/or upper bound for the chance constraint (lb, ub).
+
+## Citation
+
+If you use this code, you can cite as:
+
+```
+a
+
+
