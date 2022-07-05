@@ -49,13 +49,13 @@ conceptual_model represents our initialized MIO problem in Pyomo. Generated cons
 
 ## Citation
 
-If you use this code, you can cite in you work as:
+If you use this code, you can cite it in you work as:
 
 ```
-@software{Alcantara_ccl_tool},
+@software{Alcantara_ccl_tool,
   author = {Alc{\'a}ntara, Antonio}, 
   month = {7},
-  title = {{ccl_tool}},
+  title = {{ccl\_tool}},
   url = "https://github.com/antonioalcantaramata/ccl_tool",
   version = {1.0.0},
   year = {2022}
