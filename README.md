@@ -8,6 +8,8 @@ Note: Most of the code for point estimation is derived from the work in [https:/
 
 ### Initialization
 
+After cloning or downloading **all** the .py files in your working environment, you can initialize the ccl_tool.
+
 ```
 from CCL import CCL
 ccl_tool = CCL(X, y, methodology, p_model, q=None, M_super=None, side=None)
