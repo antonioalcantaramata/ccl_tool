@@ -15,11 +15,6 @@ from pyomo import environ
 from pyomo.environ import *
 
 
-'''
-CCL provides all the tools needed to train a decision tree for quantile regression
-and its future embedding within a mixed-integer optimization problem
-'''
-
 class CCL(object):
     '''
     Expected X, y and seek quantile for initialization.
