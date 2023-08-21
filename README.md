@@ -52,10 +52,13 @@ conceptual_model represents our initialized MIO problem in Pyomo. Generated cons
 If you use this code, you can cite it in you work as:
 
 ```
-@misc{Alcantara_ccl_tool,
-    author = "Alc{\'a}ntara, Antonio",
-    title = "ccl\_tool: Chance Constraint Learning Tool",
-    year = 2022,
-    url = "https://github.com/antonioalcantaramata/ccl_tool/"
-  }
+@article{alcantara2023data,
+  title={On data-driven chance constraint learning for mixed-integer optimization problems},
+  author={Alc{\'a}ntara, Antonio and Ruiz, Carlos},
+  journal={Applied Mathematical Modelling},
+  volume={121},
+  pages={445--462},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
